@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Jorge%20Zu%C3%B1iga&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Game%20Developer%20%7C%20Unity%20%7C%20Cloud%20%2B%20Backend&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://github.com/Chacashi.png" width="140" style="border-radius:50%" alt="Jorge Zuñiga"/>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Desarrollador+de+videojuegos+%F0%9F%8E%AE;Unity+%7C+C%23+%7C+Unity+Gaming+Services;Backend+y+servicios+cloud+para+juegos+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
 
