@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Jorge%20Zu%C3%B1iga&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Game%20Developer%20%E2%80%A2%20Unity%20%E2%80%A2%20C%23%20%E2%80%A2%20Cloud%20%26%20Backend&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Jorge%20Zu%C3%B1iga&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Game%20Developer%20%7C%20Unity%20%7C%20Cloud%20%26%20Backend&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://github.com/Chacashi.png" width="140" style="border-radius:50%" alt="Jorge Zuñiga"/>
 
@@ -86,8 +86,10 @@ Estudiante de **Diseño y Desarrollo de Simuladores y Videojuegos** en **TECSUP*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chacashi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chacashi&layout=compact&theme=tokyonight&hide_border=true&locale=es"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chacashi&theme=tokyonight"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chacashi&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Chacashi&theme=tokyonight&hide_border=true&locale=es"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chacashi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
