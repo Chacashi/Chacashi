@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Jorge%20Zu%C3%B1iga&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Game%20Developer%20%7C%20Unity%20%7C%20Cloud%20%26%20Backend&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Jorge%20Zu%C3%B1iga&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Game%20Developer%20%7C%20Unity%20%7C%20Cloud%20%2B%20Backend&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://github.com/Chacashi.png" width="140" style="border-radius:50%" alt="Jorge Zuñiga"/>
 
